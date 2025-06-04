@@ -1,0 +1,317 @@
+[
+  {
+    "name": "diNaiki Air - Die 1",
+    "price": 1850000,
+    "description": "Sepatu diNaiki Air - Die 1 menghadirkan desain sporty yang modern dengan bantalan udara inovatif, memberikan kenyamanan maksimal untuk setiap langkah Anda. Didesain khusus untuk aktivitas harian, sepatu ini menggunakan material berkualitas tinggi yang ringan dan tahan lama. Sol luar yang fleksibel memastikan cengkeraman optimal di berbagai permukaan, sementara bagian dalam yang empuk menjaga kaki tetap nyaman sepanjang hari. Cocok digunakan untuk olahraga ringan, berjalan-jalan, maupun aktivitas kasual lainnya, diNaiki Air - Die 1 adalah pilihan sempurna bagi Anda yang mengutamakan gaya dan kenyamanan.",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": [
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/1/1.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/1/2.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/1/3.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/1/4.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/1/size-chart.svg"
+    ]
+  },
+  {
+    "name": "diNaiki Air - Die 2",
+    "price": 1950000,
+    "description": "diNaiki Air - Die 2 adalah sepatu yang menggabungkan teknologi bantalan udara dengan desain yang stylish. Dirancang untuk memberikan kenyamanan maksimal, sepatu ini cocok untuk berbagai aktivitas, mulai dari olahraga hingga penggunaan sehari-hari. Material yang digunakan ringan namun kuat, memastikan daya tahan yang lama. Sol luar yang dirancang khusus memberikan traksi yang baik di berbagai permukaan, sementara bagian dalamnya menawarkan kenyamanan ekstra. Dengan pilihan warna yang menarik, diNaiki Air - Die 2 adalah pilihan ideal bagi Anda yang ingin tampil modis tanpa mengorbankan kenyamanan.",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": [
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/2/1.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/2/2.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/2/3.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/2/4.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/2/size-chart.svg"
+    ]
+  },
+  {
+    "name": "diNaiki Air - Die 3",
+    "price": 2050000,
+    "description": "Sepatu diNaiki Air - Die 3 menawarkan kombinasi sempurna antara teknologi modern dan desain yang elegan. Dengan bantalan udara yang inovatif, sepatu ini memberikan kenyamanan luar biasa untuk aktivitas sehari-hari. Material premium yang digunakan memastikan daya tahan dan keawetan, sementara sol luar yang fleksibel memberikan cengkeraman yang baik di berbagai permukaan. Desainnya yang stylish membuatnya cocok untuk berbagai kesempatan, dari olahraga hingga acara kasual. Pilihan ideal bagi Anda yang menginginkan sepatu dengan performa tinggi dan penampilan menarik.",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": [
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/3/1.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/3/2.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/3/3.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/3/4.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/3/size-chart.svg"
+    ]
+  },
+  {
+    "name": "diNaiki Air - Die 4",
+    "price": 2150000,
+    "description": "diNaiki Air - Die 4 adalah sepatu yang dirancang untuk memberikan performa tinggi dengan kenyamanan maksimal. Menggunakan teknologi bantalan udara terbaru, sepatu ini ideal untuk berbagai aktivitas, baik olahraga maupun penggunaan sehari-hari. Material yang digunakan ringan namun kuat, memastikan daya tahan yang lama. Sol luar yang dirancang khusus memberikan traksi yang baik di berbagai permukaan, sementara bagian dalamnya menawarkan kenyamanan ekstra. Dengan desain yang modern dan pilihan warna yang menarik, diNaiki Air - Die 4 adalah pilihan sempurna bagi Anda yang menginginkan sepatu stylish dan nyaman.",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": [
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/4/1.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/4/2.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/4/3.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/4/4.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/4/size-chart.svg"
+    ]
+  },
+  {
+    "name": "diNaiki Air - Die 5",
+    "price": 2250000,
+    "description": "Sepatu diNaiki Air - Die 5 menggabungkan teknologi bantalan udara dengan desain yang sporty dan modern. Dirancang untuk memberikan kenyamanan maksimal, sepatu ini cocok untuk berbagai aktivitas, mulai dari olahraga hingga penggunaan sehari-hari. Material yang digunakan ringan namun kuat, memastikan daya tahan yang lama. Sol luar yang dirancang khusus memberikan traksi yang baik di berbagai permukaan, sementara bagian dalamnya menawarkan kenyamanan ekstra. Dengan pilihan warna yang menarik, diNaiki Air - Die 5 adalah pilihan ideal bagi Anda yang ingin tampil modis tanpa mengorbankan kenyamanan.",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": [
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/5/1.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/5/2.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/5/3.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/5/4.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/5/size-chart.svg"
+    ]
+  },
+  {
+    "name": "diNaiki Air CuminMouth",
+    "price": 2350000,
+    "description": "diNaiki Air CuminMouth adalah sepatu yang dirancang untuk memberikan performa tinggi dengan kenyamanan maksimal. Menggunakan teknologi bantalan udara terbaru, sepatu ini ideal untuk berbagai aktivitas, baik olahraga maupun penggunaan sehari-hari. Material yang digunakan ringan namun kuat, memastikan daya tahan yang lama. Sol luar yang dirancang khusus memberikan traksi yang baik di berbagai permukaan, sementara bagian dalamnya menawarkan kenyamanan ekstra. Dengan desain yang modern dan pilihan warna yang menarik, diNaiki Air CuminMouth adalah pilihan sempurna bagi Anda yang menginginkan sepatu stylish dan nyaman.",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": [
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/6/1.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/6/2.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/6/3.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/6/4.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/6/size-chart.svg"
+    ]
+  },
+  {
+    "name": "diNaiki AirCum",
+    "price": 2450000,
+    "description": "Sepatu diNaiki AirCum menawarkan kombinasi sempurna antara teknologi modern dan desain yang elegan. Dengan bantalan udara yang inovatif, sepatu ini memberikan kenyamanan luar biasa untuk aktivitas sehari-hari. Material premium yang digunakan memastikan daya tahan dan keawetan, sementara sol luar yang fleksibel memberikan cengkeraman yang baik di berbagai permukaan. Desainnya yang stylish membuatnya cocok untuk berbagai kesempatan, dari olahraga hingga acara kasual. Pilihan ideal bagi Anda yang menginginkan sepatu dengan performa tinggi dan penampilan menarik.",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": [
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/7/1.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/7/2.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/7/3.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/7/4.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/7/size-chart.svg"
+    ]
+  },
+  {
+    "name": "diNaiki AirCapeq",
+    "price": 2550000,
+    "description": "diNaiki AirCapeq adalah sepatu yang menggabungkan teknologi bantalan udara dengan desain yang stylish. Dirancang untuk memberikan kenyamanan maksimal, sepatu ini cocok untuk berbagai aktivitas, mulai dari olahraga hingga penggunaan sehari-hari. Material yang digunakan ringan namun kuat, memastikan daya tahan yang lama. Sol luar yang dirancang khusus memberikan traksi yang baik di berbagai permukaan, sementara bagian dalamnya menawarkan kenyamanan ekstra. Dengan pilihan warna yang menarik, diNaiki AirCapeq adalah pilihan ideal bagi Anda yang ingin tampil modis tanpa mengorbankan kenyamanan.",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": [
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/8/1.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/8/2.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/8/3.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/8/4.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/8/size-chart.svg"
+    ]
+  },
+  {
+    "name": "diNaiki AirZamZam",
+    "price": 2650000,
+    "description": "Sepatu diNaiki AirZamZam menggabungkan teknologi bantalan udara dengan desain yang sporty dan modern. Dirancang untuk memberikan kenyamanan maksimal, sepatu ini cocok untuk berbagai aktivitas, mulai dari olahraga hingga penggunaan sehari-hari. Material yang digunakan ringan namun kuat, memastikan daya tahan yang lama. Sol luar yang dirancang khusus memberikan traksi yang baik di berbagai permukaan, sementara bagian dalamnya menawarkan kenyamanan ekstra. Dengan pilihan warna yang menarik, diNaiki AirZamZam adalah pilihan ideal bagi Anda yang ingin tampil modis tanpa mengorbankan kenyamanan.",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": [
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/9/1.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/9/2.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/9/3.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/9/4.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/9/size-chart.svg"
+    ]
+  },
+  {
+    "name": "diNaiki AirMatamoe",
+    "price": 2750000,
+    "description": "diNaiki AirMatamoe adalah sepatu yang dirancang untuk memberikan performa tinggi dengan kenyamanan maksimal. Menggunakan teknologi bantalan udara terbaru, sepatu ini ideal untuk berbagai aktivitas, baik olahraga maupun penggunaan sehari-hari. Material yang digunakan ringan namun kuat, memastikan daya tahan yang lama. Sol luar yang dirancang khusus memberikan traksi yang baik di berbagai permukaan, sementara bagian dalamnya menawarkan kenyamanan ekstra. Dengan desain yang modern dan pilihan warna yang menarik, diNaiki AirMatamoe adalah pilihan sempurna bagi Anda yang menginginkan sepatu stylish dan nyaman.",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": [
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/10/1.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/10/2.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/10/3.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/10/4.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/10/size-chart.svg"
+    ]
+  },
+  {
+    "name": "diNaiki AirLieur",
+    "price": 2850000,
+    "description": "Sepatu diNaiki AirLieur menawarkan kombinasi sempurna antara teknologi modern dan desain yang elegan. Dengan bantalan udara yang inovatif, sepatu ini memberikan kenyamanan luar biasa untuk aktivitas sehari-hari. Material premium yang digunakan memastikan daya tahan dan keawetan, sementara sol luar yang fleksibel memberikan cengkeraman yang baik di berbagai permukaan. Desainnya yang stylish membuatnya cocok untuk berbagai kesempatan, dari olahraga hingga acara kasual. Pilihan ideal bagi Anda yang menginginkan sepatu dengan performa tinggi dan penampilan menarik.",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": [
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/11/1.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/11/2.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/11/3.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/11/4.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/11/size-chart.svg"
+    ]
+  },
+  {
+    "name": "diNaiki AirLieur 2",
+    "price": 2950000,
+    "description": "diNaiki AirLieur 2 adalah sepatu yang menggabungkan teknologi bantalan udara dengan desain yang stylish. Dirancang untuk memberikan kenyamanan maksimal, sepatu ini cocok untuk berbagai aktivitas, mulai dari olahraga hingga penggunaan sehari-hari. Material yang digunakan ringan namun kuat, memastikan daya tahan yang lama. Sol luar yang dirancang khusus memberikan traksi yang baik di berbagai permukaan, sementara bagian dalamnya menawarkan kenyamanan ekstra. Dengan pilihan warna yang menarik, diNaiki AirLieur 2 adalah pilihan ideal bagi Anda yang ingin tampil modis tanpa mengorbankan kenyamanan.",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": [
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/12/1.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/12/2.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/12/3.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/12/4.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/12/size-chart.svg"
+    ]
+  },
+  {
+    "name": "diNaiki AirHabaib 1/2",
+    "price": 3050000,
+    "description": "Sepatu diNaiki AirHabaib 1/2 menggabungkan teknologi bantalan udara dengan desain yang sporty dan modern. Dirancang untuk memberikan kenyamanan maksimal, sepatu ini cocok untuk berbagai aktivitas, mulai dari olahraga hingga penggunaan sehari-hari. Material yang digunakan ringan namun kuat, memastikan daya tahan yang lama. Sol luar yang dirancang khusus memberikan traksi yang baik di berbagai permukaan, sementara bagian dalamnya menawarkan kenyamanan ekstra. Dengan pilihan warna yang menarik, diNaiki AirHabaib 1/2 adalah pilihan ideal bagi Anda yang ingin tampil modis tanpa mengorbankan kenyamanan.",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": [
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/13/1.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/13/2.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/13/3.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/13/4.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/13/size-chart.svg"
+    ]
+  },
+  {
+    "name": "diNaiki AirHabaib 2/2",
+    "price": 3150000,
+    "description": "diNaiki AirHabaib 2/2 adalah sepatu yang dirancang untuk memberikan performa tinggi dengan kenyamanan maksimal. Menggunakan teknologi bantalan udara terbaru, sepatu ini ideal untuk berbagai aktivitas, baik olahraga maupun penggunaan sehari-hari. Material yang digunakan ringan namun kuat, memastikan daya tahan yang lama. Sol luar yang dirancang khusus memberikan traksi yang baik di berbagai permukaan, sementara bagian dalamnya menawarkan kenyamanan ekstra. Dengan desain yang modern dan pilihan warna yang menarik, diNaiki AirHabaib 2/2 adalah pilihan sempurna bagi Anda yang menginginkan sepatu stylish dan nyaman.",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": [
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/14/1.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/14/2.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/14/3.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/14/4.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/14/size-chart.svg"
+    ]
+  },
+  {
+    "name": "diNaiki AirHabaib 3/2",
+    "price": 3250000,
+    "description": "Sepatu diNaiki AirHabaib 3/2 menawarkan kombinasi sempurna antara teknologi modern dan desain yang elegan. Dengan bantalan udara yang inovatif, sepatu ini memberikan kenyamanan luar biasa untuk aktivitas sehari-hari. Material premium yang digunakan memastikan daya tahan dan keawetan, sementara sol luar yang fleksibel memberikan cengkeraman yang baik di berbagai permukaan. Desainnya yang stylish membuatnya cocok untuk berbagai kesempatan, dari olahraga hingga acara kasual. Pilihan ideal bagi Anda yang menginginkan sepatu dengan performa tinggi dan penampilan menarik.",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "images": [
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/15/1.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/15/2.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/15/3.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/15/4.svg",
+      "https://pap-kelompok-3.github.io/cdn-dinaiki/src/img/15/size-chart.svg"
+    ]
+  }
+]
